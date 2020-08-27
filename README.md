@@ -1,0 +1,2 @@
+# CalculadoraEmpresarialSlackware
+Calculadora Empresarial para Slackware
